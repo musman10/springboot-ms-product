@@ -1,0 +1,16 @@
+com/japplication/webservice/exception/AbstractException.class
+com/japplication/webservice/Interceptor/ProductServiceInterceptorAppConfig.class
+com/japplication/webservice/common/ErrorPropertiesLoader.class
+com/japplication/webservice/exception/ProductNotFoundException.class
+com/japplication/webservice/service/impl/ProductServiceImpl.class
+com/japplication/webservice/WebserviceApplication.class
+com/japplication/webservice/service/ProductService.class
+com/japplication/webservice/filter/SimpleFilter.class
+com/japplication/webservice/dto/ServiceResponse.class
+com/japplication/webservice/dto/Meta.class
+com/japplication/webservice/controller/ProductController.class
+com/japplication/webservice/Interceptor/ProductServiceInterceptor.class
+com/japplication/webservice/model/Product.class
+com/japplication/webservice/advice/ValidationControllerExceptionHandler.class
+com/japplication/webservice/common/ErrorConstants.class
+com/japplication/webservice/controller/UserController.class

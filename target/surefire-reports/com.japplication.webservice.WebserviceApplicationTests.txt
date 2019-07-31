@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.japplication.webservice.WebserviceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.401 s <<< FAILURE! - in com.japplication.webservice.WebserviceApplicationTests
+contextLoads(com.japplication.webservice.WebserviceApplicationTests)  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+
